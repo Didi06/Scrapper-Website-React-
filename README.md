@@ -10,6 +10,9 @@ Web Scrapper Entertainment App is a project that scrapes a website and replicate
 * MongoDB
 * Robot 3T
 
+## Collaborator:
+* John Chang
+
 
 <img src="https://image.ibb.co/k0Ggw8/first_page_scrapper.png" alt="first_page_scrapper" border="0">
 
