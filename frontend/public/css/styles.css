@@ -1,0 +1,72 @@
+.body {
+    background-color: rgb(32, 30, 30);
+}
+
+#blanktab {
+    margin-left: 470px
+}
+
+.logo {
+    width: 175px;
+    margin-left: 30px;
+}
+
+.panoramic {
+    width: 100%;
+    height: 700px; 
+}
+
+.main-image {
+    width: 350px;
+    margin-right: 90px;
+}
+
+.main-headline {
+    color: white;
+    margin-top: 10px;
+    margin-right: 90px
+}
+
+.top-content {
+    margin-top: 30px;
+}
+
+.top-image-content {
+    width: 200px;
+}
+
+.main-content {
+    margin-top: 30px;
+}
+
+.nav-text {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular'
+}
+
+.top-nav-bar {
+    margin-left: 200px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.footer-text {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255)
+}
+
+.social {
+    width: 60px;
+    margin-left: 20px;
+}
+
+.social-icons {
+    margin-left: 730px;
+    margin-top: 20px;
+}
